@@ -1,4 +1,4 @@
-# VBA-challenge
+# Stock Market Analysis
 
 This author was tasked with analyzing three years of generated stock market data.
 
